@@ -54,6 +54,9 @@ Seyhun Akyürek - seyhunak [at] gmail com
   <li>Alex Behar</li>
 </ul>
 
+## Changelog
+   Gem updated to version 0.0.5
+
 ## Thanks
 Thanks Twitter for Bootstrap
 http://twitter.github.com/bootstrap
