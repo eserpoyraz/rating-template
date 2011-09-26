@@ -1,8 +1,6 @@
 module Rating
   module Template
-    module Rails
-      VERSION = "0.0.5"
-    end
+    VERSION = "0.1"
   end
 end
 

@@ -4,7 +4,7 @@ require "rating-template/version"
 
 Gem::Specification.new do |s|
   s.name        = "rating-template"
-  s.version     = "1.0.0"
+  s.version     = Rating::Template::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Seyhun Akyurek"]
   s.email       = ["seyhunak@gmail.com"]
