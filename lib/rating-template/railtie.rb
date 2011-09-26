@@ -1,5 +1,5 @@
-module Twitter
-  module Bootstrap
+module Rating
+  module Template
     module Rails
       class Railtie < ::Rails::Railtie; end
     end

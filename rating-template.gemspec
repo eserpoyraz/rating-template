@@ -1,18 +1,8 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "twitter-bootstrap-rails/version"
+require "rating-template/version"
 
 Gem::Specification.new do |s|
-  s.name        = "twitter-bootstrap-rails"
-  s.version     = Twitter::Bootstrap::Rails::VERSION
-  s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Seyhun Akyurek"]
-  s.email       = ["seyhunak@gmail.com"]
-  s.homepage    = "https://github.com/seyhunak/twitter-bootstrap-rails"
-  s.summary     = %q{Bootstrap CSS toolkit for Rails 3 projects}
-  s.description = %q{Bootstrap CSS toolkit for Rails 3 projects}
-
-  s.rubyforge_project = "twitter-bootstrap-rails"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
